@@ -1,0 +1,21 @@
+{
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Expense Tracker",
+  "short_name": "Expense Tracker",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-152x152.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
