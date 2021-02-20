@@ -48,12 +48,4 @@ To setup the app for development on your local machine, please follow the instru
    ```bash
    yarn start
    ```
-   
-## Screenshots
-
-![Example Screenshots](Screenshots/Screenshot (461).png)<br>
-
-
-![Example Screenshots](Screenshots/Screenshot (462).png)<br>
-
-
+  
