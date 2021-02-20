@@ -51,8 +51,6 @@ To setup the app for development on your local machine, please follow the instru
    
 ## Screenshots
 
-- Homepage
-
 ![Example Screenshots](Screenshots/Screenshot (461).png)<br>
 
 
