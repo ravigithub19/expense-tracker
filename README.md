@@ -8,7 +8,7 @@
 
 ## Installation
 
-To setup the app for development on your local machine, please follow the instructions below:
+- To setup the app for development on your local machine, please follow the instructions below:
 
 1. Clone the repository to your machine
 
@@ -19,7 +19,7 @@ To setup the app for development on your local machine, please follow the instru
 
 2. Install packages
 
-   If you use `npm`
+   - If you use `npm`
 
    ```bash
    npm install
@@ -27,7 +27,7 @@ To setup the app for development on your local machine, please follow the instru
 
    or
 
-   If you use `yarn`
+   - If you use `yarn`
 
    ```bash
    yarn
@@ -35,7 +35,7 @@ To setup the app for development on your local machine, please follow the instru
 
 3. Run the development server
 
-   If you use `npm`
+   - If you use `npm`
 
    ```bash
    npm start
@@ -43,16 +43,9 @@ To setup the app for development on your local machine, please follow the instru
 
    or
 
-   If you use `yarn`
+  - If you use `yarn`
 
    ```bash
    yarn start
    ```
   
-  ## Screenshots
-![Example screenshot](./Screenshots/Screenshot (461).png)<br>
-
-![Example screenshot](./img/paymentPage.png)<br>
-
-![Example screenshot](./img/paymentSuccess.png)
-
