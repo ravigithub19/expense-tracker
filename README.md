@@ -49,3 +49,10 @@ To setup the app for development on your local machine, please follow the instru
    yarn start
    ```
   
+  ## Screenshots
+![Example screenshot](./Screenshots/Screenshot (461).png)<br>
+
+![Example screenshot](./img/paymentPage.png)<br>
+
+![Example screenshot](./img/paymentSuccess.png)
+
