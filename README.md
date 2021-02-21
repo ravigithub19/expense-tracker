@@ -43,7 +43,7 @@
 
    or
 
-  - If you use `yarn`
+   - If you use `yarn`
 
    ```bash
    yarn start
