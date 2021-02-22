@@ -1,6 +1,6 @@
 ## Expense Tracker
 
-> Developed an Expense Calculator Web App using ReactJS turned into a PWA(Progressive Web App) to track all the transactions done.
+> Developed an Expense Calculator Web App using ReactJS turned into a PWA (Progressive Web App) to track all the transactions done.
 
 ## Built using -
 * ReactJS
